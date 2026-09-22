@@ -1,0 +1,12 @@
+# Neervanaai Enterprise AI Reference Architecture Whitepaper
+Edition: 2025 Enterprise Release
+Classification: Sovereign & High-Assurance Systems
+
+This reference architecture document outlines the four-tier architectural deployment standard for enterprise generative AI, hybrid retrieval-augmented generation (RAG), and high-throughput MLOps systems.
+
+1. Layer 1: Data Governance & Lineage Security
+2. Layer 2: Domain Quantization & Sovereign Fine-Tuning
+3. Layer 3: Agentic Orchestration & Deterministic Retrieval
+4. Layer 4: 24/7 Production MLOps & GPU FinOps
+
+For full technical specifications or engagement roadmaps, contact partners@neervanaai.com.
